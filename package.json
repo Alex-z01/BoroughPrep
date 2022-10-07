@@ -1,0 +1,19 @@
+{
+  "name": "boroughprep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-z01/BoroughPrep.git"
+  },
+  "author": "AlexZaalishvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-z01/BoroughPrep/issues"
+  },
+  "homepage": "https://github.com/Alex-z01/BoroughPrep#readme"
+}
